@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UyelikSistemi", "UyelikSistemi\UyelikSistemi.csproj", "{A98ED157-14F5-46D2-91FB-11419E2A8280}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A98ED157-14F5-46D2-91FB-11419E2A8280}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A98ED157-14F5-46D2-91FB-11419E2A8280}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A98ED157-14F5-46D2-91FB-11419E2A8280}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A98ED157-14F5-46D2-91FB-11419E2A8280}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {936E3FA6-7617-45D8-ACF8-E9B4E8707C54}
+	EndGlobalSection
+EndGlobal
